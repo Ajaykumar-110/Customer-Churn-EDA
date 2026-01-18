@@ -16,10 +16,10 @@ The goal of this project is to analyze customer behavior using Python and visual
 
 ## Tools & Libraries Used
 
-NumPy – numerical computations
-Pandas – data cleaning and manipulation
-Matplotlib – basic data visualization
-Seaborn – advanced and statistical visualization
+#NumPy – numerical computations
+#Pandas – data cleaning and manipulation
+#Matplotlib – basic data visualization
+#Seaborn – advanced and statistical visualization
 
 ## Dataset Information
 
